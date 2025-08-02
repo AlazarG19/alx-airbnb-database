@@ -1,4 +1,10 @@
 📦 Database Documentation: Property Booking System
+
+## Entity Relationship Diagram (ERD)
+
+![ERD Diagram](erd.png)
+
+*This diagram shows the complete database structure and relationships between all entities in the Airbnb clone system.*
 🔹 User
 Stores information about users in the system, including hosts and guests.
 
